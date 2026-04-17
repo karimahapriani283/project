@@ -24,4 +24,4 @@ Dalam proyek ini, saya melakukan beberapa tahapan analisis menggunakan SQL:
 - **Konsep SQL:** `CASE Statements`, `Aggregate Functions (COUNT, SUM, AVG)`, `Subqueries`, `String to Date Conversion`, `HAVING Clause`.  
 
 ## 📁 Cara Menggunakan 
-Cukup salin query dari file `analysis_query.sql` dan jalankan pada database yang memiliki skema tabel `patient_visits`.
+Cukup salin query dari file `patient_visits.sql` dan jalankan pada database yang memiliki skema tabel `patient_visits`.
