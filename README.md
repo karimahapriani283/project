@@ -1,4 +1,4 @@
-# project
+# Project
 # Healthcare Patient Visit Analysis (SQL)  
 ## 📌 Deskripsi Proyek Proyek ini bertujuan untuk menganalisis data kunjungan pasien guna mendapatkan wawasan mengenai demografi pasien, tren diagnosis (ICD Codes), frekuensi kunjungan (utilisasi), dan prosedur medis yang paling sering dilakukan.  Analisis ini sangat berguna bagi manajemen rumah sakit untuk memahami pola kesehatan pasien dan mengoptimalkan layanan kesehatan.  
 ## 🛡️ Catatan Keamanan Data (Data Privacy) Demi menjaga kerahasiaan informasi medis dan mematuhi etika data: 1. **Anonimisasi:** Semua identitas pribadi seperti Nama, Alamat, dan No. HP telah dihapus dari dataset. 2. **Masking:** `patient_id` telah disamarkan dan tidak merepresentasikan nomor rekam medis asli. 3. **Transformasi:** Tanggal lahir digunakan hanya untuk menghitung rentang usia (*age grouping*) guna keperluan analisis statistik.  
